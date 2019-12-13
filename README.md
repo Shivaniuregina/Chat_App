@@ -13,7 +13,7 @@ The idea is to design a system/app like this came from using different apps for 
 <p>In this chat application, the focus will be on the user interface and the common usability requirements of the user in a chat application such as sending and receiving a text message, sharing images and some other which is a must to have into a chat application so that it becomes easy to integrate anywhere anytime in any application. 
 List of features in the chat application: </P>
 <p>
-Functional Features:
+ <b>Functional Features:</b>
 <ul>
 <li> Sign in and set up a profile: Users will be able to register their profiles and add other users to chat with them. 
  </li> <li> Add new contacts: The user is able to add the new contact who are registered for the application to join a chat conversation.</li> 
@@ -22,7 +22,7 @@ Functional Features:
 </ul>
 </P>
 <p>
-Non-Functional Features:
+</b>Non-Functional Features:</b>
 <ul>
  <li>	Privacy: Messages shared between users can be shared privately to keep privacy.  </li>
  <li>	Performance: The application must be lightweight and must be able to send messages instantly.  </li>
@@ -32,21 +32,22 @@ Non-Functional Features:
  </p>
 
 <p> 
-Backend and Database:
+ <b>Backend and Database:</b>
 
 The backend is done in kotlin and the database to store the data on the server is the firebase realtime database which helps to store data in real-time even when the users are offline and synchronize the data. It can improve the stability issues and report to bug fixes with faster pace and ease.
  </p>
  
 <p>
-About application:
+<b>About application:</b>
 
 This app will run on all android phones with the android version 7.0 or newer that includes google services. The application will run in the portrait mode and will maintain a similar interface in the app in all forms.
 </p>
 <p>
-Software Requirements:
-Android studio version 3.5 and Genymotion for android emulator.</p>
+ <b> Software Requirements:</b>
+ 
+ Android studio version 3.5 and Genymotion for android emulator.</p>
 <p>
-Scope of the project: 
+<b> Scope of the project: </b>
 <ul>
  <li>	Developing a chat application to communicate among a different number of users based on point-to-point communication.  </li>
  <li>	The facility which can provide is to provide text and audio communication along with sharing images and files in real-time.  </li>
@@ -55,7 +56,7 @@ Scope of the project:
 </ul>
 </p>
 <p>
-Development process:
+<b>Development process: </b>
 <ul>
 In this phase the process to develop the chat application is focused by the following steps:
  <li>	Discover the requirements of the users. </li>
@@ -65,7 +66,7 @@ In this phase the process to develop the chat application is focused by the foll
  <li> Launch the application for the users.
 </ul>
 <p>
-Working of the chat application : 
+<b> Working of the chat application: </b>
  The chat application gives the ability to communicate with anyone in realtime by sharing text, audio and video messages it has the ability to store the data using FCM  (Firebase Cloud Messaging) and can recover the data if needed this follows the NoSQL documents to process the data. Firebase provides faster web hosting and multi-platform authentication. This application will provide the universal requirement for a chat app to include with its maximum usability. It may include the file transfer feature where the user can share any documents up to a certain limit. Once the user will be logged in to the application with correct credentials they can add any number of contacts who are currently using the application and will be able to communicate with them by sharing messages in any format. Users will receive a notification if they get any new messages from other users. The users can set and update the profile and bio of their accounts whenever they want. 
 </p>
 
