@@ -1,6 +1,7 @@
 # Chat_App
 Real-Time Firebase Chat Application
 
+Path to MainActivity: 
 
 <h2>
 Background:</h2>
