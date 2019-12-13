@@ -1,7 +1,7 @@
 # Chat_App
 Real-Time Firebase Chat Application
 
-<img src="pic_trulli.jpg" >
+<img src="https://github.com/Shivaniuregina/Chat_App/blob/master/olduser.png" >
 <h2>
 Background:</h2>
 <p>
