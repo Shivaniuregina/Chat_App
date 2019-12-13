@@ -37,7 +37,6 @@ The backend is done in kotlin and the database to store the data on the server i
 <p>
 About application:
 This app will run on all android phones with the android version 7.0 or newer that includes google services. The application will run in the portrait mode and will maintain a similar interface in the app in all forms.
-
 </p>
 <p>
 Software Requirements:
@@ -61,7 +60,6 @@ In this phase the process to develop the chat application is focused by the foll
  <li>	Quality Assurance to test the app in all the possible functionality.  </li>
  <li> Launch the application for the users.
 </ul>
-
 <p>
 Working of the chat application : 
  The chat application gives the ability to communicate with anyone in realtime by sharing text, audio and video messages it has the ability to store the data using FCM  (Firebase Cloud Messaging) and can recover the data if needed this follows the NoSQL documents to process the data. Firebase provides faster web hosting and multi-platform authentication. This application will provide the universal requirement for a chat app to include with its maximum usability. It may include the file transfer feature where the user can share any documents up to a certain limit. Once the user will be logged in to the application with correct credentials they can add any number of contacts who are currently using the application and will be able to communicate with them by sharing messages in any format. Users will receive a notification if they get any new messages from other users. The users can set and update the profile and bio of their accounts whenever they want. 
