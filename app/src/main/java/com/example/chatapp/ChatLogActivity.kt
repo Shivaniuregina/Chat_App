@@ -1,3 +1,6 @@
+// Author: Shivani D. Shah
+// Student ID: 200392733
+
 // Chat app package
 package com.example.chatapp
 //Header Files Used
