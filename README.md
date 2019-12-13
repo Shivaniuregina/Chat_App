@@ -28,14 +28,18 @@ Non-Functional Features:
  <li>	Performance: The application must be lightweight and must be able to send messages instantly.  </li>
  <li>	Robustness:  When the mobile device crashes the data should be available on the firebase server to recover. </li>
  <li>	Correctness: The account should display correct information when the user logs in with appropriate details.  </li>
+ </ul>
  </p>
-<ul>
+
 <p> 
 Backend and Database:
+
 The backend is done in kotlin and the database to store the data on the server is the firebase realtime database which helps to store data in real-time even when the users are offline and synchronize the data. It can improve the stability issues and report to bug fixes with faster pace and ease.
  </p>
+ 
 <p>
 About application:
+
 This app will run on all android phones with the android version 7.0 or newer that includes google services. The application will run in the portrait mode and will maintain a similar interface in the app in all forms.
 </p>
 <p>
