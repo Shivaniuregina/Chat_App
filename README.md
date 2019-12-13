@@ -24,7 +24,7 @@ List of features in the chat application: </P>
 </ul>
 </P>
 <p>
-</b>Non-Functional Features:</b>
+<b>Non-Functional Features:</b>
 <ul>
  <li>	Privacy: Messages shared between users can be shared privately to keep privacy.  </li>
  <li>	Performance: The application must be lightweight and must be able to send messages instantly.  </li>
@@ -69,6 +69,7 @@ In this phase the process to develop the chat application is focused by the foll
 </ul>
 <p>
 <b> Working of the chat application: </b>
- The chat application gives the ability to communicate with anyone in realtime by sharing text, audio and video messages it has the ability to store the data using FCM  (Firebase Cloud Messaging) and can recover the data if needed this follows the NoSQL documents to process the data. Firebase provides faster web hosting and multi-platform authentication. This application will provide the universal requirement for a chat app to include with its maximum usability. It may include the file transfer feature where the user can share any documents up to a certain limit. Once the user will be logged in to the application with correct credentials they can add any number of contacts who are currently using the application and will be able to communicate with them by sharing messages in any format. Users will receive a notification if they get any new messages from other users. The users can set and update the profile and bio of their accounts whenever they want. 
+
+The chat application gives the ability to communicate with anyone in realtime by sharing text, audio and video messages it has the ability to store the data using FCM  (Firebase Cloud Messaging) and can recover the data if needed this follows the NoSQL documents to process the data. Firebase provides faster web hosting and multi-platform authentication. This application will provide the universal requirement for a chat app to include with its maximum usability. It may include the file transfer feature where the user can share any documents up to a certain limit. Once the user will be logged in to the application with correct credentials they can add any number of contacts who are currently using the application and will be able to communicate with them by sharing messages in any format. Users will receive a notification if they get any new messages from other users. The users can set and update the profile and bio of their accounts whenever they want. 
 </p>
 
