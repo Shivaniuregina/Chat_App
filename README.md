@@ -1,7 +1,7 @@
 # Chat_App
 Real-Time Firebase Chat Application
 
-<img src="https://github.com/Shivaniuregina/Chat_App/blob/master/olduser.png" >
+
 <h2>
 Background:</h2>
 <p>
@@ -14,8 +14,9 @@ The idea is to design a system/app like this came from using different apps for 
 
 <h2>Project description:</h2>
 
-<p>In this chat application, the focus will be on the user interface and the common usability requirements of the user in a chat application such as sending and receiving a text message, sharing images and some other which is a must to have into a chat application so that it becomes easy to integrate anywhere anytime in any application. 
-List of features in the chat application: </P>
+<p>In this chat application, the focus will be on the user interface and the common usability requirements of the user in a chat application such as sending and receiving a text message, sharing images and some other which is a must to have into a chat application so that it becomes easy to integrate anywhere anytime in any application.</p>
+<img src="https://github.com/Shivaniuregina/Chat_App/blob/master/olduser.png" >
+<p> List of features in the chat application: </P>
 <p>
  <b>Functional Features:</b>
 <ul>
