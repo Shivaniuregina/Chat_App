@@ -1,7 +1,7 @@
 # Chat_App
 Real-Time Firebase Chat Application
 
-Path to MainActivity: 
+<b> Path to MainActivity: Chat_App/app/src/main/java/com/example/chatapp/ <b>
 
 <h2>
 Background:</h2>
