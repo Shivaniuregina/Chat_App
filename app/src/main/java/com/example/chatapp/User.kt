@@ -1,3 +1,6 @@
+// Author: Shivani D. Shah
+// Student ID: 200392733
+
 //Package
 package com.example.chatapp
 //Importing reuired libararies
