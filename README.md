@@ -1,5 +1,7 @@
 # Chat_App
 Real-Time Firebase Chat Application
+
+<img src="pic_trulli.jpg" >
 <h2>
 Background:</h2>
 <p>
