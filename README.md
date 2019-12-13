@@ -12,7 +12,7 @@ The idea is to design a system/app like this came from using different apps for 
 
 <p>In this chat application, the focus will be on the user interface and the common usability requirements of the user in a chat application such as sending and receiving a text message, sharing images and some other which is a must to have into a chat application so that it becomes easy to integrate anywhere anytime in any application. 
 List of features in the chat application: </P>
-
+<p>
 Functional Features:
 <ul>
 •	Sign in and set up a profile: Users will be able to register their profiles and add other users to chat with them.
@@ -20,6 +20,7 @@ Functional Features:
 •	Send message: The users are able to send an instant message to the other user available in the contact list. Users can send any type of message including audio messages, videos, and images.
 •	Add Bio: Users can add a bio or short description for their profiles.
 </ul>
+</P>
 Non-Functional Features:
 <ul>
 •	Privacy: Messages shared between users can be shared privately to keep privacy.
