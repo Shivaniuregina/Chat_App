@@ -15,23 +15,25 @@ List of features in the chat application: </P>
 <p>
 Functional Features:
 <ul>
-•	Sign in and set up a profile: Users will be able to register their profiles and add other users to chat with them.
-•	Add new contacts: The user is able to add the new contact who are registered for the application to join a chat conversation.
-•	Send message: The users are able to send an instant message to the other user available in the contact list. Users can send any type of message including audio messages, videos, and images.
-•	Add Bio: Users can add a bio or short description for their profiles.
+<li> Sign in and set up a profile: Users will be able to register their profiles and add other users to chat with them. 
+ </li> <li> Add new contacts: The user is able to add the new contact who are registered for the application to join a chat conversation.</li> 
+<li> Send message: The users are able to send an instant message to the other user available in the contact list. Users can send any type of message including audio messages, videos, and images.</li>
+ <li> Add Bio: Users can add a bio or short description for their profiles.</li>
 </ul>
 </P>
+<p>
 Non-Functional Features:
 <ul>
-•	Privacy: Messages shared between users can be shared privately to keep privacy.
-•	Performance: The application must be lightweight and must be able to send messages instantly. 
-•	Robustness:  When the mobile device crashes the data should be available on the firebase server to recover.
-•	Correctness: The account should display correct information when the user logs in with appropriate details.
+ <li>	Privacy: Messages shared between users can be shared privately to keep privacy.  </li>
+ <li>	Performance: The application must be lightweight and must be able to send messages instantly.  </li>
+ <li>	Robustness:  When the mobile device crashes the data should be available on the firebase server to recover. </li>
+ <li>	Correctness: The account should display correct information when the user logs in with appropriate details.  </li>
+ </p>
 <ul>
+<p> 
 Backend and Database:
-<ul>
-•	The backend is done in kotlin and the database to store the data on the server is the firebase realtime database which helps to store data in real-time even when the users are offline and synchronize the data. It can improve the stability issues and report to bug fixes with faster pace and ease.
-</ul>
+The backend is done in kotlin and the database to store the data on the server is the firebase realtime database which helps to store data in real-time even when the users are offline and synchronize the data. It can improve the stability issues and report to bug fixes with faster pace and ease.
+ </p>
 <p>
 About application:
 This app will run on all android phones with the android version 7.0 or newer that includes google services. The application will run in the portrait mode and will maintain a similar interface in the app in all forms.
@@ -43,21 +45,21 @@ Android studio version 3.5 and Genymotion for android emulator.</p>
 <p>
 Scope of the project: 
 <ul>
-•	Developing a chat application to communicate among a different number of users based on point-to-point communication.
-•	The facility which can provide is to provide text and audio communication along with sharing images and files in real-time.
-•	Companies can use this application to integrate it into different applications such as games, fitness and so on.
-•	Firebase provides NoSQL document database facility.
+ <li>	Developing a chat application to communicate among a different number of users based on point-to-point communication.  </li>
+ <li>	The facility which can provide is to provide text and audio communication along with sharing images and files in real-time.  </li>
+ <li>	Companies can use this application to integrate it into different applications such as games, fitness and so on.  </li>
+ <li>	Firebase provides NoSQL document database facility.  </li>
 </ul>
 </p>
 <p>
 Development process:
 <ul>
 In this phase the process to develop the chat application is focused by the following steps:
-•	Discover the requirements of the users.
-•	Determine the features and its architecture.
-•	Develop the design to implement the features into the application with the highest usability for great user experience.
-•	Quality Assurance to test the app in all the possible functionality.
-•	Launch the application for the users.
+ <li>	Discover the requirements of the users. </li>
+ <li>	Determine the features and its architecture.  </li>
+ <li>	Develop the design to implement the features into the application with the highest usability for great user experience.  </li>
+ <li>	Quality Assurance to test the app in all the possible functionality.  </li>
+ <li> Launch the application for the users.
 </ul>
 
 <p>
